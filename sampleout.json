@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": null,
+      "title": "Riyadh All-Stars XI vs. Paris Saint-Germain - Football Match Report - January 19, 2023 - ESPN",
+      "description": "Get a report of the Riyadh All-Stars XI vs. Paris Saint-Germain 2023 Club Friendly football match.",
+      "url": "http://espn.go.com/soccer/report?gameId=662861",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0119%2Fr1119796_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-01-19T19:52:21.994973Z",
+      "content": "RIYADH, Saudi Arabia -- Cristiano Ronaldo and Lionel Messi both scored as Paris Saint-Germain beat the Riyadh Season Team 5-4 at the King Fahd International Stadium on Thursday.\r\nRonaldo scored twice… [+1703 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Adam Forrest",
+      "title": "Lee Anderson reported to Commons authorities after using staff to make food bank point",
+      "description": "Tory MP accused of ‘harassing’ his own employee and using her as ‘political football’",
+      "url": "http://www.independent.co.uk/news/uk/politics/lee-anderson-food-banks-twitter-b2265370.html",
+      "urlToImage": "https://static.independent.co.uk/2022/05/12/09/Tory%20MP%20claims%20there%20is%20no%20massive%20use%20for%20food%20banks%20in%20UK%200-18%20screenshot.png?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-01-19T15:06:34Z",
+      "content": "Sign up to the Inside Politics email for your free daily briefing on the biggest stories in UK politics\r\nGet our free Inside Politics email\r\nConservative MP Lee Anderson has been accused by Labour of… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Mike Butcher",
+      "title": "German teens went crazy for this 'compliments' app, and now VCs are backing its next phase",
+      "description": "Teen social app has raised a $2.63m (€2.5m) pre-seed funding round led by Accel. Also participating was 20VC. Additional investors including Supercell Co-Founder and CEO Ilkka Paananen, Behance founder Scott Belsky, football star Mario Götze, Kevin Weil (Scri…",
+      "url": "https://techcrunch.com/2023/01/19/german-teens-went-crazy-for-this-compliments-app-and-now-vcs-are-backing-its-next-phase/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/Slay-team-.jpg?resize=1200,791",
+      "publishedAt": "2023-01-18T21:32:25Z",
+      "content": "The teenage market for apps is a tough nut to crack and stay relevant in. Just ask Snapchat. Equally, teens are going through a stage in life where almost every social interaction seems to carry port… [+5649 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "Ryan Dabbs",
+      "title": "'Landmark' FIFA ruling forces Lyon to pay withheld maternity salary to Sara Bjork Gunnarsdottir",
+      "description": "Lyon have been forced to reimburse the Icelandic footballer €82,000 after failing to pay her after she fell pregnant",
+      "url": "https://www.fourfourtwo.com/news/landmark-fifa-ruling-forces-lyon-to-pay-withheld-maternity-salary-to-sara-bjork-gunnarsdottir",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/y6vF57ZSND8RaodczkWaRH-1200-80.jpg",
+      "publishedAt": "2023-01-18T15:12:58Z",
+      "content": "FIFA has forced Lyon to reimburse former player Sara Bjork Gunnarsdottir, after withholding her salary payments during her pregnancy and maternity leave. \r\nBjork Gunnarsdottir joined Lyon in July 202… [+2124 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
